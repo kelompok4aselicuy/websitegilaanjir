@@ -1,0 +1,823 @@
+body{
+    overflow-x: hidden;
+}
+.navbar-brand .foto{ 
+    transform: translateY(-2px);   /*biar logonya vertical tidak menyon*/
+    width: 50%;
+    height: auto;
+  }
+  .nav-item {
+      font-size: large;
+      font-weight: 600;
+  }
+.carousel-item {
+    margin-top: -100px;
+}
+.carousel .carousel-indicators button {
+    width: 10px;
+    height: 10px;
+    border-radius: 100%;
+}
+.carousel-inner h5{
+    color: #ffff;
+    font-size: 55px;
+    font-weight: 700;
+}
+.carousel-inner .carousel-caption {
+    margin-top: -200px;
+}
+.carousel-inner h6{
+    font-size: 30px;
+    font-weight: 800;
+}
+.carousel-inner p{
+    margin-top: 150px;
+}
+.carousel-inner h5, h6{
+    margin-top: 5px;
+}
+.container-text p{
+    color: orange;
+    font-weight: 600;
+    opacity: 1;
+    font-family: calibri;
+}
+.container-text h1{
+    font-weight: 600;
+    color: gray;
+    
+}
+.h {
+    width: 7%;
+    height: 10px;
+    border: 0 none;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    background-color: orange;
+    font-weight: 900;
+    opacity: 1;
+}
+.row p{
+    color: black;
+    margin-top: 20px;
+    font-size: x-large;
+}
+.row h6{
+    color: gray;
+    font-size: small ;
+    letter-spacing: 0.1cap;
+}
+.card img{
+    border-radius: 0%;
+}
+.container-isi {
+    padding: 100px;
+    background-color: lightgray;
+    margin-bottom: 100px;
+}
+.isi img{
+    float: right;
+    width: 35%;
+    margin-top: -50px;
+    border-radius: 2%;
+
+}
+.jalu {
+    color: gray;
+}
+.jalu h1 {
+    font-weight: 700;
+}
+.fa-inbox {
+    font-size: 50px;
+    color: orange;
+}
+.fa-utensils {
+    font-size: 50px;
+    color: orange;
+}
+.fa-mug-saucer{
+    font-size: 50px;
+    color: orange;
+}
+.fa-bag-shopping{
+    font-size: 50px;
+    color: orange;
+}
+.container-icon h5{
+    margin: 20px;
+    font-weight: 700;
+}
+.container-icon p{
+    color: gray;
+    font-size: small ;
+    letter-spacing: 0.1cap;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+.container-4 {
+    padding: 1px;
+    background-color: rgb(245, 245, 245);
+    margin-bottom: 30px;
+    margin-top: 70px;
+
+}
+.container-4 p{
+    color: orange;
+    font-weight: 600;
+    font-size: 14px;
+    opacity: 1;
+    margin-top: 20px;
+    font-family: calibri;
+}
+.container-4 h1{
+    font-size: 41px;
+    font-weight: 700;
+    margin-top: -10px;
+}
+.m {
+    width: 5%;
+    height: 10px;
+    border: 0 none;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    background-color: orange;
+    font-weight: 900;
+    opacity: 1;
+}
+
+.container-text h1{
+    font-weight: 600;
+    color: gray;
+    
+}
+.container-i img{
+    float: right;
+}
+.container-i{
+    margin-left: 30px;
+    margin-right: 30px;
+}
+.container-i h1{
+    font-size: 30px;
+    font-weight: bold;
+    margin-left: 83px;
+    color: gray;
+}
+.container-i p{
+    color: gray;
+    margin-top: 20px;
+    font-size: medium;
+    margin-right: 600px;
+    margin-left: 83px;
+}
+.container-5 {
+    margin-bottom: 30px;
+     margin-top: 50px;
+}
+.container-5 p{
+    color: gray;
+    font-size: 15px;
+}
+.container-5 h1{
+    font-weight: 700;
+    color: gray;
+}
+.g {
+    width: 7%;
+    height: 10px;
+    border: 0 none;
+    margin-right: auto;
+    margin-left: 1px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    background-color: orange;
+    font-weight: 900;
+    opacity: 1;
+}
+.container-x{
+    display: flex;
+    justify-content: center;
+    margin-left: 110px;
+    margin-right: 110px;
+
+}
+.container-x img{
+    width: 100%;
+    
+}
+.container-x h5{
+    margin-top: 30px;
+    font-weight: 700;
+}
+.container-x p{
+    font-size: 14px;
+    font-weight: 400;
+    color: gray;
+    opacity: 0.5;
+    letter-spacing: 0.0cap;
+}
+.container-9 {
+    margin-bottom: 30px;
+     margin-top: 70px;
+     background-color: lightgray;
+     padding-bottom: 10px;
+     padding-top: 20px;
+}
+.cece h6{
+    color: orange;
+}
+.cece p{
+    color: gray;
+    font-size: 15px;
+    margin-top: -30px;
+}
+.cece h1{
+    font-weight:bold ;
+    margin-top: 10px;
+}
+.garis {
+    width: 5%;
+    height: 10px;
+    border: 0 none;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    background-color: orange;
+    font-weight: 900;
+    opacity: 1;
+}
+.container-10 {
+    margin-bottom: 30px;
+     margin-top: 70px;
+     background-color: rgb(248, 248, 248);
+     padding-bottom: 10px;
+     padding-top: 20px;
+}
+.ceco h6{
+    color: orange;
+}
+.ceco p{
+    color: gray;
+    font-size: 15px;
+    margin-top: -30px;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+.ceco h1{
+    font-weight:bold ;
+    margin-top: 10px;
+}
+.garis-2 {
+    width: 5%;
+    height: 10px;
+    border: 0 none;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    background-color: orange;
+    font-weight: 900;
+    opacity: 1;
+}
+.container-11 {
+    padding: 1px;
+    background-color: rgb(245, 245, 245);
+    margin-bottom: 30px;
+    margin-top: 70px;
+
+}
+.container-11 p{
+    color: orange;
+    font-weight: 600;
+    font-size: 14px;
+    opacity: 1;
+    margin-top: 20px;
+    font-family: calibri;
+}
+.container-11 h1{
+    font-size: 41px;
+    font-weight: 700;
+    margin-top: -10px;
+}
+.garis-3 {
+    width: 5%;
+    height: 10px;
+    border: 0 none;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    background: orange;
+    font-weight: 900;
+    opacity: 1;
+}
+.container-o{
+    display: flex;
+    justify-content: center;
+    margin-left: 110px;
+    margin-right: 110px;
+}
+.container-o img{
+    width: 99%;
+    height: 240px;
+}
+.container-o h5{
+    margin-top: 30px;
+    font-weight: 700;
+}
+.container-o p{
+    font-size: 14px;
+    font-weight: 400;
+    color: gray;
+    opacity: 0.5;
+    letter-spacing: 0.0cap;
+}
+.container-footer{
+    font-size: 14px;
+    font-weight: 400;
+    font-family: Calibri;
+    padding: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: gray;
+}
+.container-foot{
+    font-size: 12px;
+    font-weight: 400;
+    padding: 15px;
+    background: rgb(43, 43, 43) ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+}
+.container-foot a{
+    color: gray;
+    font-family:Tahoma;
+}
+.container-footer3{
+    font-size: 14px;
+    font-weight: 400;
+    font-family: Calibri;
+    padding: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: gray;
+}
+.container-ft{
+    font-size: 12px;
+    font-weight: 400;
+    padding: 15px;
+    background: rgb(43, 43, 43) ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+    margin-bottom: -100px;
+}
+.container-ft a{
+    color: gray;
+    font-family:Tahoma;
+}
+.container-kontak{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.container-kontak img{
+    width: 80%;
+    margin-right: -100px;
+}
+.container-kontak h4{
+    font-size: 14px;
+    text-align: center;
+    margin-left: 100px;
+    letter-spacing: 0.0cap;
+    color: gray;
+    font-weight: 200;
+    margin-top: 20px;
+
+  
+}
+.container-kontak p{
+    font-size: 15px;
+    text-align: left;
+    margin-top: 5px;
+    color: gray;
+    font-weight: 400;
+}
+.container-kontak h5{
+    font-size: 15px;
+    margin-left: 20px;
+    text-align: center;
+    margin-right: 30px;
+    color: gray;
+    font-weight:300;
+    opacity: 1;
+}
+.container-kontak h2{
+    font-size: 15px;
+    text-align: left;
+    font-weight: bold;
+    color: gray;
+}
+.container-kontak h1{
+    font-size:19px;
+    margin-left: -90px;
+    margin-top: 20px;
+    font-weight: bold;
+}
+.hr{
+width: 100%;
+height: 3px;
+border: 0 none;
+margin-right: auto;
+margin-left: auto;
+margin-top: 20px;
+margin-bottom: 30px;
+background: orange;
+opacity: 1;
+}
+.container .berita{
+    margin-bottom: 100px;
+}
+.container .berita h5{
+    font-size: 25px;
+    font-weight: bold;
+    margin-top: 10px;
+    margin-left: -30px;
+}
+.container .berita p{
+    font-size: 14px;
+    margin-left: 50px;
+    font-weight: 400;
+    color: gray;
+    margin-right: 70px;
+    opacity: 0.9;
+    text-align: left;
+}
+
+.berita img{
+    width: 550px;
+    margin-top: -49px;
+    margin-right: 60px;
+}
+.berita h1{
+    font-size: 13px;
+    margin-left: -290px;
+    font-weight: bold;
+    color: gray;
+}
+.fa-calendar-days{
+    font-size: 25px;
+    color: orange;
+}
+.fa-envelopes-bulk {
+    font-size: 25px;
+    color: orange;
+}
+.container-kontak h6{
+    text-align: left;
+    font-size: 15px;
+    
+}
+.carousel-caption img{
+    justify-content: center;
+    object-fit: cover;
+    margin-top: 50px;
+    width: 150px;
+    height: 150px;
+    border: 10px solid white;
+    border-radius: 50%;
+
+}
+.carousel-caption p{
+    margin-top: 100px;
+}
+.container-gl{
+    margin-top: 50px;
+    text-align: center;
+    color: gray;
+}
+.gl h1{
+    font-weight: 400;
+    font-size: 30px;
+}
+.container-icen{
+    margin-left: 150px;
+    margin-right: 150px;
+}
+.container-icen h5{
+    margin: 20px;
+    font-weight: 400;
+    font-size: 15px;
+
+}
+.container-icen p{
+    color: gray;
+    font-size: small ;
+    letter-spacing: 0.1cap;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+.container-icen a{
+    color: orange;
+    font-weight: bold;
+    margin-top: 500px;
+}
+.fa-square-facebook {
+    font-size: 50px;
+    color: orange;
+}
+.fa-instagram{
+    font-size: 50px;
+    color: orange;
+}
+.fa-envelope{
+    font-size: 50px;
+    color: orange;
+}
+.fa-whatsapp{
+    font-size: 50px;
+    color: orange;
+}
+.container-footer2{
+    font-size: 14px;
+    font-weight: 400;
+    font-family: Calibri;
+    padding: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: gray;
+    margin-top: -100px;
+}
+.container-g {
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.container-g img{
+    width: 150px;
+}
+.container-l {
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 20px;
+}
+.container-l img{
+    width: 150px;
+    margin-bottom: 100px;
+}
+.container-badge {
+    padding: 1px;
+    background-color: orange;
+   margin-top: -50px;
+}
+.container-badge  h3{
+    font-size: 13px;
+    color: white;
+    margin-top: 20px;
+    
+}
+.container-badge h1{
+    color: white;
+    font-weight: 700;
+}
+.geris {
+    width: 7%;
+    height: 10px;
+    border: 0 none;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    background: white;
+    font-weight: 900;
+    opacity: 1;
+}
+.container-footer3{
+    font-size: 14px;
+    font-weight: 400;
+    font-family: Calibri;
+    padding: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: gray;
+
+}
+.container-20 {
+    margin-bottom: 30px;
+     margin-top: 70px;
+     padding-bottom: 10px;
+     padding-top: 20px;
+     margin-left: 10px;
+}
+.oce h6{
+    color: orange;
+    font-size: 13px;
+    margin-left: 100px;
+}
+.oce p{
+    color: gray;
+    font-size: 17px;
+    margin-top: 20px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.oce h1{
+    font-weight: 600;
+    margin-top: 10px;
+    text-align: left;
+    margin-left: 100px;
+    color: gray;
+}
+.ris-2 {
+    width: 5%;
+    height: 10px;
+    border: 0 none;
+    margin-right: auto;
+    margin-left: 100px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    background-color: orange;
+    font-weight: 900;
+    opacity: 1;
+}
+.container-Z{
+    display: flex;
+    justify-content: center;
+    margin-left: 110px;
+    margin-right: 110px;
+    margin-top: -50px;
+
+}
+.container-Z img{
+    width: 100%;
+    
+}
+.container-Z h5{
+    margin-top: 30px;
+    font-weight: 700;
+}
+.container-Z p{
+    font-size: 14px;
+    font-weight: 400;
+    color: gray;
+    opacity: 0.5;
+    letter-spacing: 0.0cap;
+}
+.container-30 {
+    margin-bottom: 30px;
+     margin-top: 70px;
+     padding-bottom: 10px;
+     padding-top: 20px;
+}
+.eco h1{
+    font-weight: 400;
+    margin-top: 10px;
+    font-size: 30px;
+    margin-right: 200px;
+   margin-left: 200px;
+   
+}
+.ris-4 {
+    width: 5%;
+    height: 10px;
+    border: 0 none;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    background-color: orange;
+    font-weight: 900;
+    opacity: 1;
+}
+.container-xx{
+    display: flex;
+    justify-content: center;
+    margin-left: 110px;
+    margin-right: 110px;
+    margin-top: -100px;
+
+}
+.container-xx img{
+    width: 95%;
+    height: 500px;
+    object-fit: cover;
+    
+}
+.container-xx h5{
+    margin-top: 30px;
+    font-weight: 700;
+}
+.container-xx p{
+    font-size: 14px;
+    font-weight: 400;
+    color: gray;
+    opacity: 0.5;
+    letter-spacing: 0.0cap;
+}
+.container-xxx{
+    display: flex;
+    margin-left: 110px;
+    margin-right: 110px;
+    margin-top: -100px;
+
+}
+.container-xxx img{
+    width: 95%;
+    height: 500px;
+    object-fit: cover;
+    
+}
+.container-xxx h5{
+    margin-top: 30px;
+    font-weight: 700;
+}
+.container-xxx p{
+    font-size: 14px;
+    font-weight: 400;
+    color: gray;
+    opacity: 0.5;
+    letter-spacing: 0.0cap;
+}
+.container-xxxx{
+    display: flex;
+    justify-content: center;
+    margin-left: 110px;
+    margin-right: 110px;
+   margin-top: -100px;
+}
+.container-xxxx img{
+    width: 100%;
+    margin-top: 50px;
+    
+}
+.container-xxxx h5{
+    margin-top: 30px;
+    font-weight: 700;
+}
+.container-je {
+    text-align: center;
+    background-color: rgb(206, 203, 203);
+    padding: 10px;
+    margin-bottom: 20px;
+}
+.contaije h3{
+    font-size: 20px;
+    margin-top: 10px;
+    font-weight: bold;
+}
+.contaije h6{
+    font-size: 13px;
+    font-weight: bold;
+    color: grey;
+}
+.container-fis {
+    margin-bottom: 20px;
+    margin-top: -20px;
+
+}
+.container-fis p{
+  text-align: left;
+  margin-left: 600px;
+  margin-right: 100px;
+  margin-top: -420px;
+  color: gray;
+    font-size: 17px;
+
+}
+
+.container-fis img{
+ margin-left: 120px;
+}
+.feed {
+  padding: 25px;
+  margin-left: 600px;
+  margin-right: 100px;
+  background: orange;
+   
+}
+.feed h5{
+    color: white;
+    margin-top: -10px;
+    margin-left: -10px;
+    font-weight: bold;
+}
+.feed p{
+    color: white;
+    margin-top: 20px;
+    margin-left: -10px;
+    font-size: 15px;
+    margin-right: 80px;
+}
